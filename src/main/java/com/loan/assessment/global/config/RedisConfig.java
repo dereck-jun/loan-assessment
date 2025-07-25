@@ -1,4 +1,4 @@
-package com.loan.assessment.global;
+package com.loan.assessment.global.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
